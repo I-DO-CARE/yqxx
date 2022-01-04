@@ -185,9 +185,9 @@ def main():
     else:
         logger.error("save: Failed")
         exit(1)
-    if Znx != 0:
-        logger.error('您有未阅读的消息，请尽快阅读。')
-        exit(1)
+    # if Znx != 0:
+    #     logger.error('您有未阅读的消息，请尽快阅读。')
+    #     exit(1)
     return
 
 
