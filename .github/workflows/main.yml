@@ -2,7 +2,7 @@ name: "auto submit"
 
 on:
   schedule:
-    - cron: "40 0 * * *"  # scheduled at 06:00 (UTC+8) everyday
+    - cron: "40 0 * * *"  # scheduled at 08:40 (UTC+8) everyday
   workflow_dispatch:
 
 env:
