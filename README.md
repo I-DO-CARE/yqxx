@@ -1,5 +1,5 @@
 # 学工平台每日上报
-# git test
+
 [![PyPI version](https://img.shields.io/pypi/v/yqxx)](https://pypi.org/project/yqxx/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/billchenchina/yqxx)](https://github.com/billchenchina/yqxx/releases)
 [![GitHub stars](https://img.shields.io/github/stars/billchenchina/yqxx)](https://github.com/billchenchina/yqxx/stargazers)
