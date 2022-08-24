@@ -69,7 +69,7 @@ kzl12: ''
 # 0 低风险地区（Low risk area）
 # 1 中风险地区（Medium risk area）
 # 2 高风险地区（High risk areas）
-kzl13: 0
+kzl13: -1
 
 # 您所处中/高风险地区所在街道，社区名称（The street and community name of your medium/high risk area is）
 # 例：哈尔滨市呼兰区兰河街道沿河社区
