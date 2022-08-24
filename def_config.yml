@@ -95,7 +95,7 @@ kzl17: 1
 # 2 干咳（Dry cough）
 # 3 呼吸困难（Difficulty in breathing）
 # 4 其他（Other symptoms）
-kzl18: 0
+kzl18: '0'
 
 # 是否到相关医院或门诊检查（Did you go to a hospital or clinic for a check-up?)
 # 0 否
@@ -158,7 +158,7 @@ kzl30: ''
 # 本人48小时内是否已进行核酸检测（Has COVID-19 nucleic acid test been conducted during 48 hours）
 # 0 否（No）
 # 1 是（Yes）
-kzl31: 1
+kzl31: ''
 
 # 目前本人新冠疫苗接种情况（Vaccination status）
 # 0 未接种(Unvaccinated)
