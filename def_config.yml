@@ -164,7 +164,7 @@ kzl31: ''
 # 0 未接种(Unvaccinated)
 # 1 已接种部分剂次(Single dose has been inoculated)
 # 2 已接种全部剂次(Both doses inoculated)
-kzl32: '3'
+kzl32: 3
 
 # 其他信息（Other information）
 kzl33: '无'
